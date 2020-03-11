@@ -1,10 +1,4 @@
-def "mario"
-  puts "It's-a me, Mario!""
-
-def "toadstool"
-  puts "Thank You Mario! But Our Princess Is In Another Castle!"
-
-
-def "link"
-  puts "It's Dangerous To Go Alone! Take This."
+def mario
+  phrase = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  puts phrase
 end
