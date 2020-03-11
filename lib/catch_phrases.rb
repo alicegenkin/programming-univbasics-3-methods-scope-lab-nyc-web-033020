@@ -1,6 +1,6 @@
 def "mario"
   puts "It's-a me, Mario!""
-  
+
 def "toadstool"
   puts "Thank You Mario! But Our Princess Is In Another Castle!"
 
@@ -8,5 +8,3 @@ def "toadstool"
 def "link"
   puts "It's Dangerous To Go Alone! Take This."
 end
-
-
